@@ -5,6 +5,8 @@ A simple and interactive **Password Strength Visualizer** that helps users under
 This project analyzes password input based on common security criteria such as **length**, **uppercase and lowercase letters**, **numbers**, and **special characters**, then visually displays the password strength using a dynamic indicator (e.g., weak, medium, strong).
 
 ---
+ ## 🌐 Live Demo
+ https://arij0106.github.io/password-strength-visualizer/
 
 ## ✨ Features
 
